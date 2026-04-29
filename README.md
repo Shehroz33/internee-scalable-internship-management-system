@@ -94,6 +94,18 @@ npm start
 
 Live URL: Add your deployed app URL here.
 
+Live Deployment:
+https://13-221-180-156.sslip.io/ims
+
+Cloud Database:
+AWS RDS MySQL
+
+Read Replica:
+Configured using AWS RDS read replica for improved read performance.
+
+Deployment:
+AWS EC2 Ubuntu + Nginx Reverse Proxy + PM2
+
 ## Author
 
 **Shehroz Amjad**
